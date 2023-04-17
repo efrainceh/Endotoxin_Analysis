@@ -20,9 +20,9 @@ To app requires 2 files, selected using the GUI:
 
 The GUI prompts the user for a filename and location to save the results:
 
-- A result CSV table 
+- **Results Table**: A CSV file with all the results. This will include sample name, sample type, EU/ml and EU/mg (only for protein samples). 
 
-- A PNG file with the standard curve
+- **Standard Curve**: A PNG file with the standard curve
 
 #### GUI:
 
