@@ -1,0 +1,9 @@
+# BYTE-CACHE
+__pycache__/
+
+# DISTRIBUTION
+build/
+dist/
+
+# ENVIRONMENT
+venv/
