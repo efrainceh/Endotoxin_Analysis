@@ -90,8 +90,3 @@ class ClarioStarParser(CsvParserInterface):
 
         print(self.data_df.head(10))
 
-
-p = "./test_files/20230424_EndotoxinRaw.csv"
-
-dp = ClarioStarParser()
-dp.process(p)
